@@ -1,4 +1,4 @@
-![hader](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Myeongho's%20GitHub&descAlign=37&fontAlign=58&fontAlignY=62)
+![hader]([https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Myeongho's%20GitHub&descAlign=37&fontAlign=58&fontAlignY=62](https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&text=Myeongho's%20GitHub&descAlign=37&fontAlign=58&fontAlignY=62&textBg=true&fontSize=70))
 
 # 끊임없이 준비하는 백엔드 개발자 입니다!
 
