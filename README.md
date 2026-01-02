@@ -18,6 +18,6 @@
 ### ETC
 <!--Amazon AWS--> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <!--MySQL--> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   
-<img width="10" height="100" alt="image" src="https://github.com/user-attachments/assets/923abdce-8cb3-4db2-a3b9-ef71973f9680" />
+<img width="30" height="100" alt="image" src="https://github.com/user-attachments/assets/923abdce-8cb3-4db2-a3b9-ef71973f9680" />
 
 🤔Github Stats
