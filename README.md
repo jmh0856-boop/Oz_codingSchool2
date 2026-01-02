@@ -1,4 +1,20 @@
-# ***Welcome to Myeongho's Github***
+# **:eyes:About Me**
 
-## 안녕👋
+(손들기)I am a ...
+(불)I am to become a ...
+(학사모)...
 
+
+
+(벽돌)Tech Stack
+
+Language
+Python JavaScript HTML5 CSS3
+
+
+Framework
+Flask Django
+
+ETC
+
+(생각하는)Github Stats
