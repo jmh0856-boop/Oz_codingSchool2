@@ -1,14 +1,9 @@
-fl<div>
-  <!--Header-->
-  ![header](https://capsule-render.vercel.app/a/pi?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
-  
-</div>
-
-<div>
-  <!--Body-->
+# 준비하는 백엔드 개발자 입니다!
 
 ## **👀About Me**
 
+- 항목 1 아아아
+- 항몽 2 아아아아아
 #### 🙋‍♂️I am a ...
 #### 🔥I am to become a ...
 #### 🎓...
@@ -31,3 +26,5 @@ fl<div>
 
 
 🤔Github Stats
+
+
