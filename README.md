@@ -12,9 +12,11 @@
   <br/>
 
 
-Framework
-Flask Django
+### Framework
+<!--Flask--> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/> <!--Django--> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 
-ETC
+### ETC
+<!--Amazon AWS--> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> <!--MySQL--> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  
 
-(생각하는)Github Stats
+🤔Github Stats
